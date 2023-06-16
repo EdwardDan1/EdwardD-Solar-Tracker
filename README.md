@@ -56,12 +56,3 @@ Provide instructions on how to install and set up the project, including any dep
 ## Usage
 
 Explain how to use the project, including any important commands, configurations, or user instructions.
-
-## Contributing
-
-Specify how others can contribute to your project, such as guidelines for submitting issues, feature requests, or pull requests. You can also mention if you welcome collaboration or contributions from the open-source community.
-
-## License
-
-State the license under which the project is distributed. If you're using an open-source license, include the license text or provide a link to it.
-
