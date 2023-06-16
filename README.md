@@ -19,7 +19,7 @@ Introduce yourself and provide a brief background about your experience, skills,
 
 ## Progression and Issues
 
-Outline the steps you took during the project's development and the challenges you encountered. You can use bullet points or subsections to describe different stages or milestones.
+Issues I have encountered while woprking on this project
 
 ### Issue 1
 - Description of the issue: Code does not work as intended. The servos do not track the light but instead turn in a weird direction and stay that way.
