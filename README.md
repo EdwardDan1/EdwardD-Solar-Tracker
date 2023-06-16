@@ -15,7 +15,7 @@ Small machine that tracks the brightest source of light and points the solar pan
 
 ## About Me
 
-Introduce yourself and provide a brief background about your experience, skills, and interests related to the project.
+my introductions
 
 ## Progression and Issues
 
@@ -33,7 +33,7 @@ Issues I have encountered while woprking on this project
 
 ## Milestones
 
-List the major milestones achieved during the project's development. You can use bullet points or subsections to describe each milestone and its significance.
+The milestones I've encountered on this project 
 
 ### Milestone 1
 - Description of the milestone: The completed and working physical build of the Solar Tracker
@@ -47,12 +47,12 @@ List the major milestones achieved during the project's development. You can use
 
 ## Modifications
 
-Describe any modifications or changes you made to the project based on feedback or new ideas that arose during the development process. Explain the rationale behind these modifications and how they improved the project.
+my modifications
 
 ## Installation
 
-Provide instructions on how to install and set up the project, including any dependencies or specific configuration needed.
+how to make. maygbe
 
 ## Usage
 
-Explain how to use the project, including any important commands, configurations, or user instructions.
+how it works
