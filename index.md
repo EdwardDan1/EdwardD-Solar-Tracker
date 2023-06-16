@@ -1,9 +1,9 @@
-# Project Name Here
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+# Solar Tracker
+An innovative solar tracking system developed to optimize energy generation through precise alignment of solar panels with a light source. By leveraging photoresistors and servo-controlled dual-axis movement, the Solar Tracker tackles the challenge of maximizing sunlight exposure as it changes over time. This Solar Tracker highlights the application of advanced technology and sustainable energy practices, demonstrating the potential for enhanced solar panel positioning, increased energy output, and a more environmentally conscious future.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
+| Edward D | Cleveland Charter High School | Electrical Engineering | Incoming Senior
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
