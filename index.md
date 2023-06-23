@@ -34,7 +34,7 @@ For your second milestone, explain what you've worked on since your previous mil
 # First Milestone
 The first milestone of this project was to successfully assemble the Solar Tracker. After I had assembled it and run the code, I realized that the servos were not moving correctly. It took me a couple of days to realize that the problem was not the code, but an error I had made in zeroing the servos. Once all the wires and connections were properly established, the physical build of the Solar Tracker was complete. The Solar Tracker had a unique way of utilizing bolts and screws for all the connections, despite there being pieces that were connected both vertically and horizontally to each other.
 
-\\**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+//Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
