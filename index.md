@@ -1,5 +1,5 @@
 # Solar Tracker
-An innovative solar tracking system developed to optimize energy generation through precise alignment of solar panels with a light source. By leveraging photoresistors and servo-controlled dual-axis movement, the Solar Tracker tackles the challenge of maximizing sunlight exposure as it changes over time. This Solar Tracker highlights the application of advanced technology and sustainable energy practices, demonstrating the potential for enhanced solar panel positioning, increased energy output, and a more environmentally conscious future.
+The initial objective of this project involved the successful construction of the Solar Tracker. During the assembly process, a minor setback occurred when I miscalibrated the servos, resulting in a slight delay. Nevertheless, once all the wiring and connections were in place, the Solar Tracker showcased its unique physical design, featuring a combination of horizontal and vertical components securely fastened together with screws and bolts. By incorporating photoresistors and employing servo-controlled dual-axis movement, this innovative system effectively addresses the challenge of maximizing solar exposure as it evolves throughout the day. The Solar Tracker exemplifies the fusion of cutting-edge technology and sustainable energy practices, showcasing the potential for improved solar panel positioning, heightened energy output, and a more ecologically aware future.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -32,13 +32,9 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+The first milestone of this project was to successfully assemble the Solar Tracker. After I had assembled it and run the code, I realized that the servos were not moving correctly. It took me a couple of days to realize that the problem was not the code, but an error I had made in zeroing the servos. Once all the wires and connections were properly established, the physical build of the Solar Tracker was complete. The Solar Tracker had a unique way of utilizing bolts and screws for all the connections, despite there being pieces that were connected both vertically and horizontally to each other.
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+//**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
