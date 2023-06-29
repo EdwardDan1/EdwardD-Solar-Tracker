@@ -37,6 +37,7 @@ The first milestone of this project was to successfully assemble the Solar Track
 
 # Schematics 
 ![alt text]([http://url/to/img.png](https://i.imgur.com/BZ2HTVE.png))
+![Untitled Sketch_bb](https://github.com/EdwardDan1/EdwardD-Solar-Tracker/assets/113312727/111a033a-178a-4883-b26a-b55b3d5e6e1d)
 
 # Code
 Here is the code for my project:
