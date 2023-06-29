@@ -42,14 +42,34 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
-void setup() {
-  // put your setup code here, to run once:
-  Serial.begin(9600);
-  Serial.println("Hello World!");
+#include <Servo.h>
+
+Servo servo1;
+Servo servo2;
+const int joyX = A1;
+const int joyY = A0;
+
+int servoValX;
+int servoValY;
+
+void setup() 
+{
+  servo1.attach(6);
+  servo2.attach(5);
+  pinMode(joyX, INPUT);
+  pinMode(joyY, INPUT);
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
+void loop()
+{
+  servoValX = analogRead(joyX);
+  servoValX = map(servoValX, 0, 1023, 0, 360);
+  servo1.write(servoValX);
+
+  servoValY = analogRead(joyY);
+  servoValY = map(servoValY, 0, 1023, 0, 180);
+  servo2.write(servoValY);
+
 
 }
 ```
