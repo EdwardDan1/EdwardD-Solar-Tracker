@@ -10,11 +10,7 @@ Building upon the foundation of the Solar Tracker, I set out to enhance its func
 ![Headstone Image](logo.svg)
   
 # Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+As I approached the final milestone of my project, I focused on writing the code that would enable the joystick to control the movement of the servos. I started watching YouTube videos and searching up guides to learn how to integrate the joystick with the two servo motors, but eventually was able to succesfully integrate it with the help of my instructor. Additionally, I replaced the solar panel with an old phone case, which served as a convenient housing for my phone. This allowed me to capture photos and videos using a Bluetooth shutter.
 
 <!-- Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below. -->
 
