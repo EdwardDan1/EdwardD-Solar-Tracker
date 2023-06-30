@@ -79,7 +79,7 @@ Here is the parts list for my project:
 |:--:|:--:|:--:|:--:|
 | Joystick | The joystick is used to move the servos | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Remote Bluetooth Shutter | To take pictures and videos from my phone without touching my phone  | $Price | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/dp/B084VTFS4X)"> Link </a> |
+| Remote Bluetooth Shutter | To take pictures and videos from my phone without touching my phone  | $5.99 | <a href="https://a.co/d/28jD7bR"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | AAA Batteries  | To power the servos in the base project and the modified build | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
