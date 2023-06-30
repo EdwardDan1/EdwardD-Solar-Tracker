@@ -7,7 +7,8 @@ Building upon the foundation of the Solar Tracker, I set out to enhance its func
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
-![Headstone Image](logo.svg)
+![IMG_0474](https://github.com/EdwardDan1/EdwardD-Solar-Tracker/assets/113312727/7fb36700-1cc7-483e-8dca-7444779102d8)
+
   
 # Final Milestone
 As I approached the final milestone of my project, I focused on writing the code that would enable the joystick to control the movement of the servos. I started watching YouTube videos and searching up guides to learn how to integrate the joystick with the two servo motors, but eventually was able to succesfully integrate it with the help of my instructor. Additionally, I replaced the solar panel with an old phone case, which served as a convenient housing for my phone. This allowed me to capture photos and videos using a Bluetooth shutter.
