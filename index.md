@@ -29,8 +29,11 @@ The first milestone of this project was to successfully assemble the Solar Track
 
 <!-- Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below. -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+![IMG_0476](https://github.com/EdwardDan1/EdwardD-Solar-Tracker/assets/113312727/2083ade3-3f72-479e-86fb-978355aa3acb)
+![IMG_0477](https://github.com/EdwardDan1/EdwardD-Solar-Tracker/assets/113312727/ebcd57f1-2e39-4aa8-b8b6-94118f0ac9cd)
+I thought his kind of contruction was pretty unique 
 
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 
 # Schematics 
 ![Untitled Sketch_bb](https://github.com/EdwardDan1/EdwardD-Solar-Tracker/assets/113312727/111a033a-178a-4883-b26a-b55b3d5e6e1d)
