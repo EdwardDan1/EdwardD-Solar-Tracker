@@ -15,7 +15,7 @@ As I approached the final milestone of my project, I focused on writing the code
 
 <!-- Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below. -->
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NcJlnBBZcbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
 The second milestone of this project was to successfully get the base project fully functional. To achieve this, I had to familiarize myself with the Arduino IDE, an integrated development environment used for programming Arduino microcontrollers. This software tool provided a user-friendly interface for writing, compiling, and uploading code to Arduino boards, allowing me to effectively develop and bring the project to fruition. I initially learned the basics of Arduino IDE before implementing the complete LED code, so I was able to read and tweak the code in the future.
